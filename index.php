@@ -1,4 +1,3 @@
-<?
-echo 'ahmed'
-?>
-oui oui oui
+<html>
+	<p>be catastrophe</p>
+</html>
